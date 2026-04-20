@@ -1,4 +1,0 @@
-just-playback~=0.1.8
-mediapipe==0.10.9
-numpy~=2.2.6
-opencv-python~=4.13.0.92
