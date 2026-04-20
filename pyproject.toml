@@ -1,0 +1,12 @@
+[project]
+name = "SleepDetector"
+version = "0.1.0"
+description = "Just a python program to detect sleep"
+readme = "README.md"
+requires-python = ">=3.10,<3.11"
+dependencies = [
+    "just-playback~=0.1.8",
+    "mediapipe==0.10.9",
+    "numpy~=2.2.6",
+    "opencv-python~=4.13.0.92",
+]
